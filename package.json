@@ -1,0 +1,16 @@
+{
+  "name": "Mass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d App"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Diksha1206.github.io/massmutualApp",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
